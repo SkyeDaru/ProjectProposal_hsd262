@@ -1,6 +1,7 @@
 # ProjectProposal_hsd262
 # PROJECT TITLE: 'Broke Millenial' 
 
+#What and Why / For Whom?
 
 'Broke Millenial' is a web-based application that serves to alleviate the financial 
 & emotional stress that comes with being a hopeless, indecisive member of the Generations Y (and Z)...Forget the self-help
@@ -16,7 +17,7 @@ weighing,'Broke Millenial' has you covered. Let us map out your future by displa
 cost of living, monthly salary, transportation/grocery expenses (by state), rent, etc. We'll show you how much money you have
 to your name based on the specified information you provide.
 
-
+# How and Scope
 From a user's perspective, he or she will be lead to a page with two options: One option is to 'track the present' which 
 includes the basic functions of a personal finances management system. This includes features that allow you to both display    
 and set budgets or expenses in an organized manner. Examples of this option would be along the lines of apps such as Quicken
@@ -26,8 +27,6 @@ This entails having the user input where they plan to live, how much income they
 affordable, with the hopes of helping users answers the questions: "Can I financially afford to make X decision?" This 
 platform can even go as far as supplying state-based data (extracted from internet or other source) when a user inputs where 
 they plan to live (i.e average cost of living in Los Angeles vs average cost of living in Ohio). 
-
-
 I believe this proposal is neither too easy nor too ambitious as it involves working with large sets of data, creating
 an algorithm to track finances, and user input/output. Additionally, there are enough functions in this web app to be split
 among four to five programmers.
